@@ -1,0 +1,17 @@
+Host rmpi-02
+HostName 192.168.0.139
+User nnao45
+Port 2222
+IdentityFile /home/nnao45/rasmpi_id_rsa
+
+Host rmpi-03
+HostName 192.168.0.247
+User nnao45
+Port 2222
+IdentityFile /home/nnao45/rasmpi_id_rsa
+
+Host rmpi-04
+HostName 192.168.0.145
+User nnao45
+Port 2222
+IdentityFile /home/nnao45/rasmpi_id_rsa
